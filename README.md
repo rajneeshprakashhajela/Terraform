@@ -3,11 +3,11 @@
 
 Benefits of using Terraform: <br/>
 
-Does orchestration, not just configuration management<br/>
-Supports multiple providers such as AWS, Azure, Oracle, GCP, and many more<br/>
-Provide immutable infrastructure where configuration changes smoothly<br/>
-Uses easy to understand language, HCL (HashiCorp configuration language)<br/>
-Easily portable to any other provider<br/>
+1. Does orchestration, not just configuration management<br/>
+2. Supports multiple providers such as AWS, Azure, Oracle, GCP, and many more<br/>
+3. Provide immutable infrastructure where configuration changes smoothly<br/>
+4. Uses easy to understand language, HCL (HashiCorp configuration language)<br/>
+5. Easily portable to any other provider<br/>
 
 
 ![image](https://user-images.githubusercontent.com/43515480/229513468-8e9f8cb6-814e-42c9-89f1-b407175ea13e.png)
