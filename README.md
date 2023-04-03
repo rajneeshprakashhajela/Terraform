@@ -21,10 +21,10 @@ variables.tf – used to define input variables used in the configuration.<br/>
 terraform.tfvars – used to define values for input variables defined in variables.tf<br/>
 
 
+![image](https://user-images.githubusercontent.com/43515480/229519333-6ae176a2-537e-4db7-a698-74f0979ffbb0.png)
+
 ![image](https://user-images.githubusercontent.com/43515480/229513468-8e9f8cb6-814e-42c9-89f1-b407175ea13e.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/229514074-699b55c5-368d-4339-860f-2da0e727d5d9.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/229516982-c305f099-0a71-461a-b543-4c73ff23be65.png)
-
-![image](https://user-images.githubusercontent.com/43515480/229519333-6ae176a2-537e-4db7-a698-74f0979ffbb0.png)
