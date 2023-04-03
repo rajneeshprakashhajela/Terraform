@@ -28,3 +28,7 @@ terraform.tfvars – used to define values for input variables defined in variab
 ![image](https://user-images.githubusercontent.com/43515480/229514074-699b55c5-368d-4339-860f-2da0e727d5d9.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/229516982-c305f099-0a71-461a-b543-4c73ff23be65.png)
+
+
+1-Click WebServer Provisioning on AWS using Terraform,Ansible,Docker
+![image](https://user-images.githubusercontent.com/43515480/229520608-78a56104-9feb-4d89-987e-d6fac3befe47.png)
