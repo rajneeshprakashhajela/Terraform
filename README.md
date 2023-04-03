@@ -12,13 +12,13 @@ Benefits of using Terraform: <br/>
 4. Uses easy to understand language, HCL (HashiCorp configuration language)<br/>
 5. Easily portable to any other provider<br/>
 
-Every Terraform configuration has at least one module called the root module. The root module is any .tf and/or .tf.json files stored in the main working directory.
+Every Terraform configuration has at least one module called the root module. The root module is any .tf and/or .tf.json files stored in the main working directory.<br/>
 
-Let’s say you have a Terraform configuration saved in a root module folder named web-app consisting of three files:
+Let’s say you have a Terraform configuration saved in a root module folder named web-app consisting of three files:<br/>
 
-main.tf – used to define providers, remote backend state file.
-variables.tf – used to define input variables used in the configuration.
-terraform.tfvars – used to define values for input variables defined in variables.tf
+main.tf – used to define providers, remote backend state file.<br/>
+variables.tf – used to define input variables used in the configuration.<br/>
+terraform.tfvars – used to define values for input variables defined in variables.tf<br/>
 
 
 ![image](https://user-images.githubusercontent.com/43515480/229513468-8e9f8cb6-814e-42c9-89f1-b407175ea13e.png)
@@ -27,3 +27,4 @@ terraform.tfvars – used to define values for input variables defined in variab
 
 ![image](https://user-images.githubusercontent.com/43515480/229516982-c305f099-0a71-461a-b543-4c73ff23be65.png)
 
+![image](https://user-images.githubusercontent.com/43515480/229519333-6ae176a2-537e-4db7-a698-74f0979ffbb0.png)
