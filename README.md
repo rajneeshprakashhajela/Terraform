@@ -21,6 +21,22 @@ variables.tf – used to define input variables used in the configuration.<br/>
 terraform.tfvars – used to define values for input variables defined in variables.tf<br/>
 
 
+•	2. Providers – AWS, Azure
+•	3. Resources
+•	4. Data Sources and Outputs
+•	5. Variables and Locals
+•	6. Provisioners and Null Resources
+•	7. Count, For_Each, Ternary Operators
+•	8. Terraform CLI Commands
+•	9. Terraform functions
+•	10. Working with files
+•	11. Terraform state
+•	12. Depends_On and LifeCycle Block
+•	13. Dynamic Blocks
+•	14. Modules
+•	15. Best Practices for Modules — 1
+•	16. Best Practices for Modules — 2
+
 ![image](https://user-images.githubusercontent.com/43515480/229519333-6ae176a2-537e-4db7-a698-74f0979ffbb0.png)
 
 ![image](https://user-images.githubusercontent.com/43515480/229513468-8e9f8cb6-814e-42c9-89f1-b407175ea13e.png)
