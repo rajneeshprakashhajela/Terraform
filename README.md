@@ -1,5 +1,6 @@
 <h1> Terraform </h1>
 
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/43515480/229695559-50f363d7-1195-41c8-8893-e24a9ef9c654.png">
 
 <H3>Terraform is one of the most popular Infrastructure-as-code (IaC) tool, used by DevOps teams to automate infrastructure tasks. It is used to automate the provisioning of your cloud resources. Terraform is an open-source, cloud-agnostic provisioning tool developed by HashiCorp and written in GO language.</h3>
 
@@ -48,3 +49,8 @@ terraform.tfvars – used to define values for input variables defined in variab
 
 1-Click WebServer Provisioning on AWS using Terraform,Ansible,Docker
 ![image](https://user-images.githubusercontent.com/43515480/229520608-78a56104-9feb-4d89-987e-d6fac3befe47.png)
+
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/43515480/229696622-c2c2f765-79b4-40a1-b200-0cd2dded8e61.png">
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/43515480/229696777-9162db92-dd9a-4e10-adb2-156e00707ca6.png">
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/43515480/229697329-7cf159d5-a5b9-4c74-97dd-6b41f6b3b0ac.png">
