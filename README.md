@@ -54,3 +54,11 @@ terraform.tfvars – used to define values for input variables defined in variab
 <img width="748" alt="image" src="https://user-images.githubusercontent.com/43515480/229696777-9162db92-dd9a-4e10-adb2-156e00707ca6.png">
 
 <img width="770" alt="image" src="https://user-images.githubusercontent.com/43515480/229697329-7cf159d5-a5b9-4c74-97dd-6b41f6b3b0ac.png">
+
+for Windows machine
+Hashicorp terramform 
+VSCode
+
+and for connect via azure cli use below command in screenshot
+
+![image](https://user-images.githubusercontent.com/43515480/232256481-893b8a0e-3943-4900-a1e1-aea7c59162c2.png)
